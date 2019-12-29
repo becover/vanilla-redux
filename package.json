@@ -1,15 +1,27 @@
 {
   "name": "vanilla-redux",
   "version": "1.0.0",
-  "description": "",
+  "description": "리덕스를 이해해보는 예제",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4",
     "redux": "^4.0.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/becover/vanilla-redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/becover/vanilla-redux/issues"
+  },
+  "homepage": "https://github.com/becover/vanilla-redux#readme"
 }
