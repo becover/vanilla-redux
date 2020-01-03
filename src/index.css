@@ -6,6 +6,6 @@
   box-sizing: border-box;
 }
 
-.toggole.active {
+.toggle.active {
   background: yellow;
 }
